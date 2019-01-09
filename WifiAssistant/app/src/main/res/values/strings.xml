@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wifi Assistant</string>
+    <string name="support_buletooth">支持蓝牙？</string>
+    <string name="is_turn_on">蓝牙打开？</string>
+    <string name="turn_on">打开蓝牙</string>
+    <string name="turn_off">关闭蓝牙</string>
+
+    <string name="sou">搜索设备</string>
+    <string name="recvvvv">开始接收</string>
+    <string name="wendu">温度</string>
+    <string name="shidu">湿度</string>
+    <string name="guangqiang">光强</string>
+    <string name="zhudu">浊度</string>
+    <string name="shuizhi">水质</string>
+    <string name="guan">关闭</string>
+</resources>

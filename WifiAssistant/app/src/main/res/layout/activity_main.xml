@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@android:color/darker_gray"
+    android:orientation="vertical"
+    tools:context="com.example.zhaoyongcheng.wifiassistant.MainActivity">
+
+    <TextView
+
+        android:id="@+id/txv1"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:gravity="center"
+        android:text="    蓝牙智能锁"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/lanya"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="蓝牙开锁"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/TcpClient"
+        android:layout_width="1dp"
+        android:layout_height="1dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="退出"
+        android:textSize="20sp" />
+</LinearLayout>
